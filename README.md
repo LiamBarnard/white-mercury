@@ -4,7 +4,7 @@
 
 This is a website to showcase the various JavaScript projects I have completed on the Codecademy Front-End path. [Front-End Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path). 
 
-<img src="resources\img\banner-white-mercury.svg" align="center" width="100%"/>
+<img src="resources\img\line-break.png" align="center" width="100%"/>
 
 ## Table of Contents <!-- omit in toc -->
 - [General Info](#general-info)
@@ -19,7 +19,7 @@ This is a website to showcase the various JavaScript projects I have completed o
 - [Status](#status)
 - [Contributing](#contributing)
 
-<img src="resources\img\banner-white-mercury.svg" align="center" width="100%"/>
+<img src="resources\img\line-break.png" align="center" width="100%"/>
 
 ## General Info
 
@@ -38,7 +38,7 @@ This is a website to showcase the various JavaScript projects I have completed o
 
 To view the project's source code, please click on the respective link below.
 
-<img src="resources\img\banner-white-mercury.svg" align="center" width="100%"/>
+<img src="resources\img\line-break.png" align="center" width="100%"/>
 
 ## Project List
 
@@ -46,7 +46,7 @@ To view the project's source code, please click on the respective link below.
 
 - [Challenge Project: Number Guesser](https://github.com/LiamBarnard/white-mercury/tree/main/number_guesser) | [Live site](https://white-mercury.liam-barnard.co.uk/number_guesser/guesser.html/)
 
-<img src="resources\img\banner-white-mercury.svg" align="center" width="100%"/>
+<img src="resources\img\line-break.png" align="center" width="100%"/>
 
 ## Technologies Used
 
@@ -54,13 +54,13 @@ To view the project's source code, please click on the respective link below.
 - CSS3
 - JavaScript
 
-<img src="resources\img\banner-white-mercury.svg" align="center" width="100%"/>
+<img src="resources\img\line-break.png" align="center" width="100%"/>
 
 ## Status
 
 :arrows_counterclockwise: In progress
 
-<img src="resources\img\banner-white-mercury.svg" align="center" width="100%"/>
+<img src="resources\img\line-break.png" align="center" width="100%"/>
 
 ## Contributing
 
