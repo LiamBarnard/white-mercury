@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources\img\banner-white-mercury.svg" align="center"/>
+  <img src="resources\img\banner-white-mercury.svg" align="center" width="100%"/>
 </p>
 
 This is a website to showcase the various JavaScript projects I have completed on the Codecademy Front-End path. [Front-End Engineer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path). 
@@ -44,7 +44,7 @@ To view the project's source code, please click on the respective link below.
 
 ### JavaScript Syntax, Part I
 
-- [Challenge Project: Number Guesser](https://github.com/LiamBarnard/white-mercury/tree/main/number_guesser) | [Live site](https://white-mercury.liam-barnard.co.uk/number_guesser/guesser.html/)
+- [Challenge Project: Number Guesser](https://github.com/LiamBarnard/white-mercury/tree/main/number_guesser) | [Live site](https://white-mercury.liam-barnard.co.uk/number_guesser/guesser.html)
 
 <img src="resources\img\line-break.png" align="center" width="100%"/>
 
