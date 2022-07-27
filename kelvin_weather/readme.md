@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="white-mercury\resources\img\codecademy_logo.png" align="center" width="100%"/>
+</p>
+
 <h1 align="center">Kelvin Weather</h1>
 
 ## Table of contents 
