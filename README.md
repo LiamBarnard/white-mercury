@@ -50,6 +50,7 @@ Codecademy has many courses online, source code for my solutions are documented 
 - [Challenge Project: Kelvin Weather](https://github.com/LiamBarnard/white-mercury/tree/main/kelvin_weather)
 - [Challenge Project: Magic Eight Ball](https://github.com/LiamBarnard/white-mercury/tree/main/magic_eight_ball)
 - [Challenge Project: Number Guesser](https://github.com/LiamBarnard/white-mercury/tree/main/number_guesser) | [Live site](https://white-mercury.liam-barnard.co.uk/number_guesser/guesser.html)
+- [Challenge Project: Race Day](https://github.com/LiamBarnard/white-mercury/tree/main/race_day)
 
 <img src="resources\img\line-break.png" align="center" width="100%"/>
 
