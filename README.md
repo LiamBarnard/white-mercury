@@ -52,6 +52,7 @@ Codecademy has many courses online, source code for my solutions are documented 
 - [Challenge Project: Number Guesser](https://github.com/LiamBarnard/white-mercury/tree/main/number_guesser) | [Live site](https://white-mercury.liam-barnard.co.uk/number_guesser/guesser.html)
 - [Challenge Project: Race Day](https://github.com/LiamBarnard/white-mercury/tree/main/race_day)
 - [Challenge Project: Rock, Paper, Scissors](https://github.com/LiamBarnard/white-mercury/tree/main/rock_paper_scissors)
+- [Challenge Project: Sleep Debt Calculator](https://github.com/LiamBarnard/white-mercury/tree/main/sleep_debt_calculator)
 
 <img src="resources\img\line-break.png" align="center" width="100%"/>
 
