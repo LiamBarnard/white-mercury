@@ -57,6 +57,8 @@ Codecademy has many courses online, source code for my solutions are documented 
 
 ### JavaScript Syntax, Part II
 
+- [Challenge Project: Secret Message](https://github.com/LiamBarnard/white-mercury/tree/main/secret_message)
+
 <img src="resources\img\line-break.png" align="center" width="100%"/>
 
 ## Technologies Used
