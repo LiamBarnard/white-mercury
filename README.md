@@ -57,8 +57,10 @@ Codecademy has many courses online, source code for my solutions are documented 
 
 ### JavaScript Syntax, Part II
 
+- [Challenge Project: Meal Maker](https://github.com/LiamBarnard/white-mercury/tree/main/meal_maker)
 - [Challenge Project: Secret Message](https://github.com/LiamBarnard/white-mercury/tree/main/secret_message)
 - [Challenge Project: Whale Talk](https://github.com/LiamBarnard/white-mercury/tree/main/whale_talk)
+
 
 <img src="resources\img\line-break.png" align="center" width="100%"/>
 
