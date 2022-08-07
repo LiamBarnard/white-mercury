@@ -46,20 +46,20 @@ Codecademy has many courses online, source code for my solutions are documented 
 
 ### JavaScript Syntax, Part I
 
-- [Challenge Project: Dog Years Calculator](https://github.com/LiamBarnard/white-mercury/tree/main/dog_years)
-- [Challenge Project: Kelvin Weather](https://github.com/LiamBarnard/white-mercury/tree/main/kelvin_weather)
-- [Challenge Project: Magic Eight Ball](https://github.com/LiamBarnard/white-mercury/tree/main/magic_eight_ball)
+- [Introdicton: Dog Years Calculator](https://github.com/LiamBarnard/white-mercury/tree/main/dog_years)
+- [Introduction: Kelvin Weather](https://github.com/LiamBarnard/white-mercury/tree/main/kelvin_weather)
+- [Conditionals: Magic Eight Ball](https://github.com/LiamBarnard/white-mercury/tree/main/magic_eight_ball)
 - [Challenge Project: Number Guesser](https://github.com/LiamBarnard/white-mercury/tree/main/number_guesser) | [Live site](https://white-mercury.liam-barnard.co.uk/number_guesser/guesser.html)
-- [Challenge Project: Race Day](https://github.com/LiamBarnard/white-mercury/tree/main/race_day)
-- [Challenge Project: Rock, Paper, Scissors](https://github.com/LiamBarnard/white-mercury/tree/main/rock_paper_scissors)
-- [Challenge Project: Sleep Debt Calculator](https://github.com/LiamBarnard/white-mercury/tree/main/sleep_debt_calculator)
-- [Challenge Project: Training Days](https://github.com/LiamBarnard/white-mercury/tree/main/training_days)
+- [Conditionals: Race Day](https://github.com/LiamBarnard/white-mercury/tree/main/race_day)
+- [Functions: Rock, Paper, Scissors](https://github.com/LiamBarnard/white-mercury/tree/main/rock_paper_scissors)
+- [Functions: Sleep Debt Calculator](https://github.com/LiamBarnard/white-mercury/tree/main/sleep_debt_calculator)
+- [Scope: Training Days](https://github.com/LiamBarnard/white-mercury/tree/main/training_days)
 
 ### JavaScript Syntax, Part II
 
-- [Challenge Project: Meal Maker](https://github.com/LiamBarnard/white-mercury/tree/main/meal_maker)
-- [Challenge Project: Secret Message](https://github.com/LiamBarnard/white-mercury/tree/main/secret_message)
-- [Challenge Project: Whale Talk](https://github.com/LiamBarnard/white-mercury/tree/main/whale_talk)
+- [Objects: Meal Maker](https://github.com/LiamBarnard/white-mercury/tree/main/meal_maker)
+- [Arrays: Secret Message](https://github.com/LiamBarnard/white-mercury/tree/main/secret_message)
+- [Loops: Whale Talk](https://github.com/LiamBarnard/white-mercury/tree/main/whale_talk)
 
 
 <img src="resources\img\line-break.png" align="center" width="100%"/>
