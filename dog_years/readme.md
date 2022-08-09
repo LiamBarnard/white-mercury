@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources\img\codecademy_logo.png" align="center" width="100%"/>
+  <img src="../resources/img/codecademy_logo.png" align="center" width="100%"/>
 </p>
 
 <h1 align="center">Dog Years Calculator</h1>
