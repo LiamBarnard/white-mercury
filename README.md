@@ -57,6 +57,7 @@ Codecademy has many courses online, source code for my solutions are documented 
 
 ### JavaScript Syntax, Part II
 
+- [Iterators: Grammar Checker](https://github.com/LiamBarnard/white-mercury/tree/main/grammar/checker)
 - [Objects: Meal Maker](https://github.com/LiamBarnard/white-mercury/tree/main/meal_maker)
 - [Arrays: Secret Message](https://github.com/LiamBarnard/white-mercury/tree/main/secret_message)
 - [Objects: Team Stats](https://github.com/LiamBarnard/white-mercury/tree/main/team_stats)
