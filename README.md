@@ -17,6 +17,7 @@ This is a website to showcase the various JavaScript projects I have completed o
   - [Overview](#overview)
 - [Project List](#project-list)
   - [JavaScript Syntax, Part I](#javascript-syntax-part-i)
+  - [JavaScript Syntax, Part II](#javascript-syntax-part-ii)
 - [Technologies Used](#technologies-used)
 - [Status](#status)
 - [Contributing](#contributing)
